@@ -55,7 +55,7 @@ export function App() {
             </form>
 
             <footer className='flex flex-col items-center gap-4 mt-8'>
-               <a  href='' className='text-Gray-200 underline hover:text-Green-200'> Esqueceu dua senha ? </a>
+               <a  href='' className='text-Gray-200 underline hover:text-Green-200'> Esqueceu sua senha ? </a>
                <a href='' className='text-Gray-200 underline hover:text-Green-200'> Crie uma conta agora  </a>
             </footer>
          </div>
